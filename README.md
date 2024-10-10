@@ -1,6 +1,15 @@
 # Pixletters
 A Python program to help solving [Pixletters](https://pixletters.com/), where players must guess a hidden five-letter word based on feedback from their guesses. The program provides visual representations of letters using pixel art, helping players determine which letters are correct and in the right position.
 
+## NYT Puzzles and codes
+| Puzzles        | Code       |
+|----------------|----------------|
+| [Wordle](https://www.nytimes.com/games/wordle/index.html)    | [NYTWordle](https://github.com/FarnoodID/NYTWordle)           |
+| [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) | [NYTLetterBoxed](https://github.com/FarnoodID/NYTLetterBoxed) |
+| [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) | [NYTSpellingBee](https://github.com/FarnoodID/NYTSpellingBee) |
+| [Sudoku](https://www.nytimes.com/puzzles/sudoku)             | [NYTSudoku](https://github.com/FarnoodID/NYTSudoku)           |
+| [Pixletters](https://pixletters.com/)                        | Pixletters         |
+
 ## Features
 - **Word Selection**: The program uses a predefined list of words stored in `allwords.txt`.
 - **Pixel Representation**: Each letter is represented by a pixel matrix, allowing for a unique visual feedback mechanism.

@@ -115,10 +115,6 @@ print("If found one letter just enter the letter")
 print("Example: \'22220 02220 r 10001 22222\'")
 
 while (True):
-    # if 'state\n' in words:
-    #     print("Yes")
-    # else:
-    #     print("No")
     print("Number of words available: ",end="")
     numberOfWords = len(words)
     print(numberOfWords)
